@@ -1,0 +1,11 @@
+
+body {
+  background: linear-gradient(337deg, #241620 -4.36%, #00A862 121.88%);
+  background-repeat: no-repeat;
+  height: 100vh;
+  position: relative;
+}
+
+h1, h2, p {
+  margin: 0;
+}
